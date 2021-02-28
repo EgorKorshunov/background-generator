@@ -1,2 +1,1 @@
-# background-generator
- 
+Change the backround gradient by picking two colors.
